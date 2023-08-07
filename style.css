@@ -1,0 +1,15 @@
+.name{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+header{
+    position: sticky;
+    z-index: 5;
+    top: 0;
+    border-bottom: 1px solid white;
+}
+
+.py-24{
+    padding-top: 2rem !important;
+}
